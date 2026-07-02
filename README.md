@@ -1,47 +1,84 @@
-# Hi, ich bin Erman 👋
+# Hi, I'm Erman 👋
 
-**Cybersicherheitsingenieur & Informatikstudent aus München 🇩🇪**
+**Cybersecurity Engineer & Computer Science Student from Munich 🇩🇪**
 
 ---
 
-### 👨‍💻 Über mich
+### 👨‍💻 About Me
 
-- 🔐 Ich arbeite bei **BB CyberSec** als Cybersicherheitsingenieur
-- 🎓 Informatikstudent mit Fokus auf **IT-Sicherheit & Penetration Testing**
+- 🔐 Working at **BB CyberSec** as a Cybersecurity Engineer
+- 🎓 Computer Science Student focused on **IT Security & Penetration Testing**
+- 🛡️ Hands-on experience in **Offensive & Defensive Security**
 - 🌐 Website: [www.bb-cybersec.de](https://www.bb-cybersec.de)
 - 💼 LinkedIn: [erman-bb-cyber-security-engineer](https://linkedin.com/in/erman-bb-cyber-security-engineer)
-- 📍 München, Deutschland
+- 📍 Munich, Germany
 
 ---
 
 ### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+**Offensive Security**
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C0EF?style=for-the-badge&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+**Defensive Security**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-0066CC?style=for-the-badge&logo=sophos&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![EDR](https://img.shields.io/badge/EDR-CC0000?style=for-the-badge&logoColor=white)
+
+**Platforms & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Expertise**
+
+`Penetration Testing` `Ethical Hacking` `Network Security` `Vulnerability Management`
+`Offensive Security` `Defensive Security` `SIEM` `Web Application Security`
+
 ---
 
-### 📌 Meine Projekte
+### 💼 Experience
 
-| Projekt | Beschreibung |
-|--------|--------------|
-| [web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal) | Sicherheitsaudit einer Drupal-Webanwendung (CVE-2018-7600) mit Nmap, Burp Suite & Metasploit |
+**🔴 Penetration Tester** — *Internship @ BB CyberSec · Nov 2024 – Jan 2025*
+> Independent penetration tests for vulnerability analysis using Nmap, Nessus, Metasploit and Burp Suite. Evaluation of results and derivation of concrete security measures.
+
+**🔵 Sophos Firewall Implementation** — *Internship @ BB CyberSec · Nov 2024 – Jan 2025*
+> Full installation and configuration of Sophos Firewall. Deployment of Sophos Agent on all endpoints and implementation of security policies and EDR configuration.
+
+**🟡 Security Monitoring with Splunk (SIEM)** — *Internship @ BB CyberSec · Nov 2024 – Jan 2025*
+> Set up SIEM environment with Splunk including forwarder installation, Syslog and Linux log integration. Built dashboards, alerts and correlating use cases for threat detection.
+
+**🟢 Vulnerability Management** — *Internship @ BB CyberSec · Nov 2024 – Jan 2025*
+> Structured vulnerability management with regular scans using Nessus and OpenVAS. Risk assessment, prioritization and documentation of security vulnerabilities.
+
+---
+
+### 📌 Projects
+
+| Project | Description |
+|---------|-------------|
+| [web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal) | Security audit of a Drupal web app — CVE-2018-7600 exploited using Nmap, Burp Suite & Metasploit |
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erman-bolukbasi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erman-bolukbasi&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-### 📫 Kontakt
+### 📫 Contact
 
 - 🌐 [www.bb-cybersec.de](https://www.bb-cybersec.de)
 - 💼 [LinkedIn](https://linkedin.com/in/erman-bb-cyber-security-engineer)
