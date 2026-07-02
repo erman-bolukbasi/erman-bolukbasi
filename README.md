@@ -45,6 +45,7 @@
 
 `Penetration Testing` `Ethical Hacking` `Network Security` `Vulnerability Management`
 `Offensive Security` `Defensive Security` `SIEM` `Web Application Security`
+`Firewall Hardening` `IAM Security` `Active Directory` `Least Privilege`
 
 ---
 
@@ -66,9 +67,11 @@
 
 ### 📌 Projects
 
-| Project | Description |
-|---------|-------------|
-| [web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal) | Security audit of a Drupal web app — CVE-2018-7600 exploited using Nmap, Burp Suite & Metasploit |
+| Project | Description | Date |
+|---------|-------------|------|
+| [web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal) | Web app pentest — CVE-2018-7600 (Drupalgeddon 2) exploited using Nmap, Burp Suite & Metasploit | Nov 2024 |
+| [network-pentest-5hosts](https://github.com/erman-bolukbasi/network-pentest-5hosts) | Internal network pentest on 5-host environment — Firewall vulnerabilities found, IAM improved & least privilege enforced | Feb 2025 |
+| [network-pentest-3hosts](https://github.com/erman-bolukbasi/network-pentest-3hosts) | Internal network pentest on 3-host environment — In-depth firewall hardening, IAM redesign & rights distribution | Apr 2025 |
 
 ---
 
