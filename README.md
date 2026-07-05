@@ -10,6 +10,7 @@
 - 🎓 Computer Science Student focused on **IT Security & Penetration Testing**
 - 🛡️ Hands-on experience in **Offensive & Defensive Security**
 - 🌐 Website: [www.bb-cybersec.de](https://www.bb-cybersec.de)
+- 🌐 Website: [www.bb-cybersec.com](https://www.bb-cybersec.com)
 - 💼 LinkedIn: [erman-bb-cyber-security-engineer](https://linkedin.com/in/erman-bb-cyber-security-engineer)
 - 📍 Munich, Germany
 
