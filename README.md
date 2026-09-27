@@ -7,6 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🔐 Working at **BB CyberSec** as a Cybersecurity Engineer
+- 🚀 Founder & builder of **BB CyberSec RADAR** — a continuous cyber-risk & compliance platform (SaaS) for SMEs
 - 🎓 Computer Science Student focused on **IT Security & Penetration Testing**
 - 🛡️ Hands-on experience in **Offensive & Defensive Security**
 - 🌐 Website: [www.bb-cybersec.de](https://www.bb-cybersec.de)
@@ -39,6 +40,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -47,10 +51,14 @@
 `Penetration Testing` `Ethical Hacking` `Network Security` `Vulnerability Management`
 `Offensive Security` `Defensive Security` `SIEM` `Web Application Security`
 `Firewall Hardening` `IAM Security` `Active Directory` `Least Privilege`
+`Secure SaaS Development` `Compliance (NIS2 / ISO 27001)`
 
 ---
 
 ### 💼 Experience
+
+**🚀 Founder & Lead Developer — BB CyberSec RADAR** — *2025 – present*
+> Founded and built a multi-tenant cyber-risk & compliance SaaS for SMEs (DACH). FastAPI + PostgreSQL with Row-Level Security, Argon2id & TOTP MFA. Own observing scanner (DNS, TLS, HTTP, breach check) plus an isolated active Nuclei deep-scan, external attack-surface scanning of domains and public IPs, and an internal network collector (Docker, outbound-only). NIS2 & ISO 27001 readiness, automated monthly security reports and Stripe billing — backed by ~500 automated tests.
 
 **🔴 Penetration Tester** — *Internship @ BB CyberSec · Nov 2024 – Jan 2025*
 > Independent penetration tests for vulnerability analysis using Nmap, Nessus, Metasploit and Burp Suite. Evaluation of results and derivation of concrete security measures.
@@ -70,6 +78,7 @@
 
 | Project | Description | Date |
 |---------|-------------|------|
+| **bb-cybersec-radar** | Founder & sole developer — cyber-risk & compliance SaaS for SMEs: multi-tenant (FastAPI + PostgreSQL RLS, MFA), own scanner (DNS/TLS/HTTP + Nuclei), external + internal (collector) scanning, NIS2/ISO 27001 readiness, automated reporting | 2025 – present |
 | [web-penetration-drupal](https://github.com/erman-bolukbasi/web-penetration-drupal) | Web app pentest — CVE-2018-7600 (Drupalgeddon 2) exploited using Nmap, Burp Suite & Metasploit | Nov 2024 |
 | [network-pentest-5hosts](https://github.com/erman-bolukbasi/network-pentest-5hosts) | Internal network pentest on 5-host environment — Firewall vulnerabilities found, IAM improved & least privilege enforced | Feb 2025 |
 | [network-pentest-3hosts](https://github.com/erman-bolukbasi/network-pentest-3hosts) | Internal network pentest on 3-host environment — In-depth firewall hardening, IAM redesign & rights distribution | Apr 2025 |
