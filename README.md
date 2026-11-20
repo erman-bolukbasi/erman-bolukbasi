@@ -84,22 +84,35 @@
 | [network-pentest-3hosts](https://github.com/erman-bolukbasi/network-pentest-3hosts) | Internal network pentest on 3-host environment — In-depth firewall hardening, IAM redesign & rights distribution | Apr 2025 |
 
 ---
-### 📱 Eigene Apps
-| App | Was sie macht |
+### 📱 My Apps
+| App | What it does |
 |---|---|
-| BB Pass | Verschlüsselter Passwort-Tresor für Android (AES-256, Biometrie) |
-| BB Safe | App-Sperre für Android mit doppelter Absicherung: PIN + Biometrie, Eindringlings-Fotos bei fremdem Zugriff |
-| BB Wallet | Einnahmen und Ausgaben für Privat & KMU, mit Umsatz- und Steuerplanung und Anbindung an den Steuerberater (Flutter, local-first) |
-| BB Word | eigene Textverarbeitung als Desktop- und Web-App, DIN-5008-Briefe, komplett offline ohne Cloud |
-| BB Texify | Offline-Editor für Text und Code in allen gängigen Programmiersprachen, mit PDF-Viewer und PDF-Zusammenführung (Kotlin, Compose) |
-| BB Play | 33 Lern- und Sprachspiele für Kinder |
-| MD1497 | Taxi-Tagesabrechnung mit Umsatz- und Steuerübersicht, Monatsbericht als PDF für den Steuerberater |
+| BB Pass | encrypted password vault for Android (AES-256-GCM, Android Keystore, biometrics) |
+| BB Safe | Android app lock with two-factor protection: PIN + biometrics, intruder photos on unauthorized access |
+| BB Wallet | income & expense tracker for personal use and SMBs, with revenue and tax planning and tax advisor integration (Flutter, local-first) |
+| BB Word | own word processor as desktop and web app, DIN 5008 letters, fully offline, no cloud |
+| BB Texify | offline text and code editor for all major programming languages, with PDF viewer and PDF merging (Kotlin, Compose) |
+| BB Play | 33 learning and language games for kids, playable offline (React, Capacitor) |
+| MD1497 | daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
 
-## 🌐 Websites für Kunden
-Kfz-Werkstatt, Felgenservice, Metallbau, Beauty-Studio, Metzgerei, Hausmeisterservice u. a.
+---
 
-## 🛠 Technik
-Kotlin · Flutter/Dart · TypeScript/React · Python · Shell · HTML/CSS · Linux
+## 🌐 Client Websites
+| almancv | almancv.com – Lebenslauf und Bewerbung nach deutschen Vorgaben erstellen (Website auf Türkisch) |
+| younique | Younique Aesthetic – Website für ein Lash-, Brow- & Skin-Studio in München |
+| Fatih Duru Kasap – one-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
+| Felgenprofi Inal – website for wheel rim repair at Inal car workshop, Munich |
+| ByEat – SaaS that helps local businesses get more Google reviews |
+| MD1497 – daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
+
+
+---
+
+## 🌐 Client
+| Car workshop, wheel rim service, metalworking, beauty studio, butcher, caretaker service and more |
+
+## 🛠 Tech Stack
+| Kotlin · Flutter/Dart · TypeScript/React · Python · Shell · HTML/CSS · Linux |
 
 ### 📊 GitHub Stats
 
