@@ -87,26 +87,27 @@
 ### 📱 My Apps
 | App | What it does |
 |---|---|
-| BB Pass | encrypted password vault for Android (AES-256-GCM, Android Keystore, biometrics) |
+| BB Pass | Encrypted password vault for Android (AES-256-GCM, Android Keystore, biometrics) |
 | BB Safe | Android app lock with two-factor protection: PIN + biometrics, intruder photos on unauthorized access |
-| BB Wallet | income & expense tracker for personal use and SMBs, with revenue and tax planning and tax advisor integration (Flutter, local-first) |
-| BB Word | own word processor as desktop and web app, DIN 5008 letters, fully offline, no cloud |
-| BB Texify | offline text and code editor for all major programming languages, with PDF viewer and PDF merging (Kotlin, Compose) |
+| BB Wallet | Income & expense tracker for personal use and SMBs, with revenue and tax planning and tax advisor integration (Flutter, local-first) |
+| BB Word | Own word processor as desktop and web app, DIN 5008 letters, fully offline, no cloud |
+| BB Texify | Offline text and code editor for all major programming languages, with PDF viewer and PDF merging (Kotlin, Compose) |
 | BB Play | 33 learning and language games for kids, playable offline (React, Capacitor) |
-| MD1497 | daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
+| ByEat | SaaS that helps local businesses get more Google reviews |
+
 
 ---
 
 ### 🌐 Client Websites
 | Websites | What it does |
 |---|---|
-| almancv | Lebenslauf und Bewerbung nach deutschen Vorgaben erstellen (Website auf Türkisch) |
-| younique | Website für ein Lash-, Brow- & Skin-Studio in München |
-| Fatih Duru Kasap | one-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
-| Felgenprofi Inal | website for wheel rim repair at Inal car workshop, Munich |
-| ByEat | SaaS that helps local businesses get more Google reviews |
-| MD1497 | daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
+| almancv | Create CVs and job applications that meet German standards (in Turkish) |
+| younique | Website for a lash, brow & skin studio in Munich |
+| Fatih Duru Kasap | One-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
+| Felgenprofi Inal | Website for wheel rim repair at Inal car workshop, Munich |
+| MD1497 | Daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
 
+…plus websites for a car workshop, metalworking company and caretaker service.
 
 ---
 
@@ -114,7 +115,7 @@
 | Car workshop, wheel rim service, metalworking, beauty studio, butcher, caretaker service and more |
 
 ## 🛠 Tech Stack
-| Kotlin · Flutter/Dart · TypeScript/React · Python · Shell · HTML/CSS · Linux |
+Kotlin · Flutter/Dart · TypeScript/React · Python · FastAPI · PostgreSQL · Shell · HTML/CSS · Linux
 
 ### 📊 GitHub Stats
 
