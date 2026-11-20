@@ -98,14 +98,14 @@
 ---
 
 ### 🌐 Client Websites
-| App | What it does |
+| Websites | What it does |
 |---|---|
-| almancv | almancv.com – Lebenslauf und Bewerbung nach deutschen Vorgaben erstellen (Website auf Türkisch) |
-| younique | Younique Aesthetic – Website für ein Lash-, Brow- & Skin-Studio in München |
-| Fatih Duru Kasap – one-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
-| Felgenprofi Inal – website for wheel rim repair at Inal car workshop, Munich |
-| ByEat – SaaS that helps local businesses get more Google reviews |
-| MD1497 – daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
+| almancv | Lebenslauf und Bewerbung nach deutschen Vorgaben erstellen (Website auf Türkisch) |
+| younique | Website für ein Lash-, Brow- & Skin-Studio in München |
+| Fatih Duru Kasap | one-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
+| Felgenprofi Inal | website for wheel rim repair at Inal car workshop, Munich |
+| ByEat | SaaS that helps local businesses get more Google reviews |
+| MD1497 | daily taxi accounting with revenue and tax overview, monthly PDF report for the tax advisor |
 
 
 ---
