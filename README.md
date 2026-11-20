@@ -16,6 +16,14 @@
 - 📍 Munich, Germany
 
 ---
+## 🏢 BB CyberSec
+| Project | Description |
+|---|---|
+| [bb-cybersec.com](https://www.bb-cybersec.com) | English company website – penetration testing, vulnerability management, ISO 27001 consulting |
+| [bb-cybersec.de](https://www.bb-cybersec.de) | German product website for CyberSec RADAR |
+| BB CyberSec RADAR | Cyber-risk & compliance SaaS for SMEs (see Projects above) |
+
+---
 
 ### 🛠️ Skills & Tools
 
