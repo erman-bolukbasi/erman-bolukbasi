@@ -87,13 +87,13 @@
 ### 📱 Eigene Apps
 | App | Was sie macht |
 |---|---|
-| BB Pass | Passwort-Tresor für Android (AES-256, Biometrie) |
-| BB Safe | App-Sperre mit doppelter Absicherung & Eindringlings-Fotos |
-| BB Wallet | Einnahmen/Ausgaben, Steuerplanung für KMU |
-| BB Word | Offline-Textverarbeitung, DIN-5008-Briefe |
-| BB Texify | Code-Editor, PDF-Viewer & PDF-Zusammenführung |
+| BB Pass | Verschlüsselter Passwort-Tresor für Android (AES-256, Biometrie) |
+| BB Safe | App-Sperre für Android mit doppelter Absicherung: PIN + Biometrie, Eindringlings-Fotos bei fremdem Zugriff |
+| BB Wallet | Einnahmen und Ausgaben für Privat & KMU, mit Umsatz- und Steuerplanung und Anbindung an den Steuerberater (Flutter, local-first) |
+| BB Word | eigene Textverarbeitung als Desktop- und Web-App, DIN-5008-Briefe, komplett offline ohne Cloud |
+| BB Texify | Offline-Editor für Text und Code in allen gängigen Programmiersprachen, mit PDF-Viewer und PDF-Zusammenführung (Kotlin, Compose) |
 | BB Play | 33 Lern- und Sprachspiele für Kinder |
-| MD1497 | Taxi-Abrechnung mit Monatsbericht für den Steuerberater |
+| MD1497 | Taxi-Tagesabrechnung mit Umsatz- und Steuerübersicht, Monatsbericht als PDF für den Steuerberater |
 
 ## 🌐 Websites für Kunden
 Kfz-Werkstatt, Felgenservice, Metallbau, Beauty-Studio, Metzgerei, Hausmeisterservice u. a.
