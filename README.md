@@ -97,7 +97,9 @@
 
 ---
 
-## 🌐 Client Websites
+### 🌐 Client Websites
+| App | What it does |
+|---|---|
 | almancv | almancv.com – Lebenslauf und Bewerbung nach deutschen Vorgaben erstellen (Website auf Türkisch) |
 | younique | Younique Aesthetic – Website für ein Lash-, Brow- & Skin-Studio in München |
 | Fatih Duru Kasap – one-page website for a butcher in Afyon, Turkey (sucuk, pastırma, kavurma) |
