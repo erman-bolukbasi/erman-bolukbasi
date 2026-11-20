@@ -84,6 +84,22 @@
 | [network-pentest-3hosts](https://github.com/erman-bolukbasi/network-pentest-3hosts) | Internal network pentest on 3-host environment — In-depth firewall hardening, IAM redesign & rights distribution | Apr 2025 |
 
 ---
+## 📱 Eigene Apps
+| App | Was sie macht |
+|---|---|
+| BB Pass | Passwort-Tresor für Android (AES-256, Biometrie) |
+| BB Safe | App-Sperre mit doppelter Absicherung & Eindringlings-Fotos |
+| BB Wallet | Einnahmen/Ausgaben, Steuerplanung für KMU |
+| BB Word | Offline-Textverarbeitung, DIN-5008-Briefe |
+| BB Texify | Code-Editor, PDF-Viewer & PDF-Zusammenführung |
+| BB Play | 33 Lern- und Sprachspiele für Kinder |
+| MD1497 | Taxi-Abrechnung mit Monatsbericht für den Steuerberater |
+
+## 🌐 Websites für Kunden
+Kfz-Werkstatt, Felgenservice, Metallbau, Beauty-Studio, Metzgerei, Hausmeisterservice u. a.
+
+## 🛠 Technik
+Kotlin · Flutter/Dart · TypeScript/React · Python · Shell · HTML/CSS · Linux
 
 ### 📊 GitHub Stats
 
